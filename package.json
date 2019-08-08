@@ -1,0 +1,15 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shazzad",
+  "license": "ISC",
+  "dependencies": {
+    "aes256": "^1.0.4",
+    "express": "^4.17.1"
+  }
+}
